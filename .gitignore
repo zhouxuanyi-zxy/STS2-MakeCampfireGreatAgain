@@ -1,0 +1,17 @@
+.godot/
+.dotnet9/
+.dotnetcli/
+buildmods/
+release_build/
+bin/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+Properties/
+packages/
+.editorconfig
+*.user
+*.zip
+Directory.Build.props
